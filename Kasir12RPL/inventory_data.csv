@@ -1,0 +1,27 @@
+KODE,NAMA BARANG,HARGA,SATUAN,JENIS BARANG,STOK
+001,Teh Pucuk,3000,Botol,Minuman,20
+002,Le Minerale,3000,Botol,Minuman,20
+003,ISO Plus,4000,Botol,Minuman ,15
+004,Coca Cola,7000,Botol,Minuman,25
+005,Sprite,6000,Botol,Minuman,30
+006,Nabati,2000,Bungkus,Snack,25
+007,Tango,2500,Bungkus,Snack,15
+008,Good Time,5000,Bungkus,Snack,35
+009,Chitato,8000,Bungkus,Snack,25
+010,Lays,7500,Bungkus,Snack,10
+011,Walls Magnum Almond,7000,Pcs,Ice Cream,30
+012,Aice Mocho Crispy,4000,Pcs,Ice Cream,50
+013,Cornetto Silverqueen,10000,Pcs,Ice Cream,30
+014,Walls Viennetta 800ml,20000,Box,Ice Cream,25
+015,Campina Happy Cow Mini,12000,Box,Ice Cream,15
+016,Pop Mie Goreng,6000,Cup,Mie Instan,20
+017,Pop Mie Goreng Pedas,6000,Cup,Mie Instan,15
+018,Pop Mie Kuah Bakso,6000,Cup,Mie Instan,15
+019,Pop Mie Kuah Soto,6000,Cup,Mie Instan,25
+019,Pop Mie Kuah Kari Ayam,6000,Cup,Mie Instan,20
+020,Pop Mie Kuah Pedas,6000,Cup,Mie Instan,25
+021,Pocari sweat,5000,Kaleng,Minuman Kaleng,20
+022,Good Day Iced Coffee,7000,Kaleng,Minuman Kaleng,15
+023,Larutan Cap Kaki Tiga,4000,Kaleng,Minuman Kaleng,30
+024,Nescafe Can Original,8000,Kaleng,Minuman Kaleng,10
+025,Bear Brand Susu Steril,6000,Kaleng,Minuman Kaleng,20
